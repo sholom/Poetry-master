@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Poetry</string>
+    <string name="title_activity_display_poem">DisplayPoem</string>
+    <string name="generate_poem">Generate poem!</string>
+    <string name="paragraphs">paragraphs:</string>
+    <string name="words">words:</string>
+    <string name="lines">lines:</string>
+    <string name="words_amount">1</string>
+    <string name="lines_amount">1</string>
+    <string name="paragraphs_amount">1</string>
+    <string name="title_activity_about">About</string>
+</resources>
